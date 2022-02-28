@@ -1,0 +1,36 @@
+{
+"users" : [
+
+{
+
+"age": 25,
+
+"name": "Watson Mclean",
+
+"role": "Teacher"
+
+},
+
+{
+
+"age": 36,
+
+"name": "Deidre Sutton",
+
+"role": "Teacher"
+
+},
+
+{
+
+"age": 22,
+
+"name": "Tiffany Travis",
+
+"role": "Developer"
+
+}
+
+]
+
+}
